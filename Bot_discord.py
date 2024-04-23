@@ -102,4 +102,4 @@ async def fini(mot, trouve):
     return True
 
 
-client.run('MTIzMDE1NDg3MTIxMTI5NDczMQ.G5STjo.xMo7Y94t5jRmy-EGOaxBJTIyqfDTJj88W0tK14')
+client.run('Your token')
